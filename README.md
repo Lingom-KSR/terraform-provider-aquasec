@@ -1,4 +1,6 @@
 <a href="https://terraform.io">
+
+[![IaC](https://app.soluble.cloud/api/v1/public/badges/cf2d1432-a24a-45af-9016-014d69542f41.svg)](https://app.soluble.cloud/repos/details/github.com/lingom-ksr/terraform-provider-aquasec)  
     <img src="https://www.terraform.io/assets/images/og-image-8b3e4f7d.png" alt="Terraform logo" title="Terraform" height="100" />
 </a>
 <a href="https://www.aquasec.com/">
